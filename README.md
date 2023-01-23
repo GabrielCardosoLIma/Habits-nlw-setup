@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   <img src="./web/src/assets/logo.svg" alt="habits" width="280px" height="150px">
 </h1>
 
