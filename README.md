@@ -1,6 +1,5 @@
-"# Habits-nlw-setup" 
 <h1 align="center">
-  <img src="./web/src/assets/logo.svg" alt="habits" width="280px">
+  <img src="./web/src/assets/logo.svg" alt="habits" width="280px" height="70px">
 </h1>
 
 <br>
