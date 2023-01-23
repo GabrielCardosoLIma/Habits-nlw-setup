@@ -35,8 +35,6 @@
 O desafio foi completar uma aplicação de ponta a ponta desde o backend até o frontend web e mobile. Ao final do desafio, testes seriam executados para verificar se a aplicação era capaz de criar, visualizar e concluir hábitos.<br>
 <br>
 
-<br>
-
 ### 🛠 Tecnologias
 ReactJS e React Native/Expo
 <br> 
@@ -53,8 +51,6 @@ Fastify
 axios
 <br> 
 zod
-
-<br>
 
 ## 🏁 Iniciando o projeto:
 
