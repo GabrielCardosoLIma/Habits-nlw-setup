@@ -6,7 +6,6 @@
 <br>
 
 ## 🚀Desafio nlw-setup trilha ignite | Habits   
-Primeiro desafio de React Native do [Ignite](https://rocketseat.com.br/ignite).
 <br>
 
 **🎨  Layout [Figma](https://www.figma.com/)**<br>
@@ -22,12 +21,19 @@ O desafio foi completar uma aplicação de ponta a ponta desde o backend até o 
 
 ### 🛠 Tecnologias
 ReactJS e React Native
+<br> 
 TypeScript
+<br> 
 Radix
+<br> 
 tailwindcss
+<br> 
 Prisma
+<br> 
 Fastify
+<br> 
 axios
+<br> 
 zod
 
 <br>
