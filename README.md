@@ -20,13 +20,13 @@ O desafio foi completar uma aplicação de ponta a ponta desde o backend até o 
 <br>
 
 ### 🛠 Tecnologias
-ReactJS e React Native
+ReactJS e React Native/Expo
 <br> 
 TypeScript
 <br> 
 Radix
 <br> 
-tailwindcss
+tailwindcss/nativewind
 <br> 
 Prisma
 <br> 
